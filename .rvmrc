@@ -1,1 +1,1 @@
-rvm use jruby-1.7.0.preview1@jrubytest --create
+rvm use jruby-1.7.0.preview2@jrubytest --create
